@@ -2,5 +2,5 @@
 #include<conio.h>
 void main()
 {
-prinft("hello world");
+printf("hello world");
 }
